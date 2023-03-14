@@ -3,15 +3,15 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/imoisharma?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/imoisharma)
 [![Monthly videos on DevOps on my YouTube](https://img.shields.io/youtube/channel/views/UCpSDw2Ih5oOKZBydoq_ptqQ?style=for-the-badge)][youtube]
 
-I am [AWS Community Community Builder][aws-community-builder] and a founder of [Sharmio][sharmio] - is the company that builds and deploys your infrastructure in the cloud at your time interval. 
-We focus on building strong foundations in Security, Automation, Cloud & move to your workload to Kubernetes enabling businesses to deliver their best. This ensures the delivery of APIs, digital content, micro-services and data services with an unprecedented level of quality, elasticity and speed.
+I am [AWS Community Community Builder][aws-community-builder] and a founder of [Sharmio][sharmio] - a company that builds and deploys your infrastructure in the cloud at your time interval. 
+We focus on building solid foundations in Security, Automation, and Cloud & move your workload to Kubernetes enabling businesses to deliver their best. This ensures the delivery of APIs, digital content, micro-services and data services with unprecedented quality, elasticity and speed.
 
 ## I like
 
 - Travel to share knowledge on conferences, meetups, podcasts, workshops, mentorship, etc.
 - Figure out best & worst practices (by asking "Why?"), and publishing them as  [DevOps best practices](https://medium.com/@imoisharma) 
-- Open-source, Kubernetes,Terraform and AWS
-- Making DevOps related video [live streams][youtube]
+- Open-source, Kubernetes, Terraform and AWS
+- Making DevOps-related videos [live streams][youtube]
 
 ## Some of my open-source projects
 
