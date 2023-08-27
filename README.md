@@ -17,6 +17,18 @@ We focus on building solid foundations in Security, Automation, and Cloud & move
 
 - [k8s-workload](https://github.com/imoisharma/K8s-Workloads) - A practical guide created for everyone to learn K8s and build Highly available & scalable environment
 - [eks sops demo](https://github.com/Sharmio/eks-sops-demo) - EKS Secrets Operation Demo
+- [terraform-aws-vpc](https://github.com/Sharmio/terraform-aws-vpc) - Terraform VPC Module
+- [infra-public](https://github.com/Sharmio/infra-public)- One place to contain IAC code.
+- [kubectl-aliases-list](https://github.com/Sharmio/kubectl-aliases-list) - Kubectl aliases list for daily use!
+
+## Youtube Videos 
+
+- [Deploying Cluster Autoscaler on Amazon EKS: Step-by-Step Guide | Sharmio By: M. Sharma](https://www.youtube.com/watch?v=2TC9V2-XRX0)
+- [Exploring AWS EKS Managed and Unmanaged Node Groups | By M. Sharma](https://www.youtube.com/watch?v=wzLk1MeVcEw)
+- [How to Extend a Linux file system after resizing a volume in AWS EC2 | By M. Sharma](https://www.youtube.com/watch?v=smuSDWglwEs)
+- [How to customize my Jenkins with custom themes?](https://www.youtube.com/watch?v=YPA6nevOPnE)
+- [How to use AWS Application Load Balancer (ALB) for Jenkins Server | By M. Sharma](https://www.youtube.com/watch?v=msSOxyvXNr8)
+- [Mozilla Sops: How to use Sops for managing your Kubernetes Secrets | By M. Sharma](https://www.youtube.com/watch?v=lkC3vLcuoMc)
 
 ### Connect with me
 
@@ -28,7 +40,6 @@ We focus on building solid foundations in Security, Automation, and Cloud & move
 
 <br>
 <br>
-
 
 ![](https://komarev.com/ghpvc/?username=imoisharma&style=flat-square)
 ![](https://hit.yhype.me/github/profile?user_id=30807347)
